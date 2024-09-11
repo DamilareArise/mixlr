@@ -13,8 +13,7 @@ const App = () => {
         <Hero/>
         <Section1/>
         <Section2/>
-        <Footer/>    
-        
+        <Footer/> 
     </>
   )
 }
