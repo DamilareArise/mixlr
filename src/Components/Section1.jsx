@@ -1,6 +1,12 @@
 import React from 'react'
+import Landing from '../pages/Landing'
 
 const Section1 = () => {
+    let mystyle = {
+        border:'1px solid red', 
+        backgroundColor: 'whitesmoke'
+    }
+    // spread ...
     return (
         <>
             <div className="container1">
